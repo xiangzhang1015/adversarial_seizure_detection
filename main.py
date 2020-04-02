@@ -64,7 +64,7 @@ def compute_accuracy_p(v_xs, v_ys):  # this function only calculate the acc of C
 # print('Let`s start!, GPU:', GPU_ID)
 
 ################THU seizure data reading
-# thr first 21 columns are features, the 22th column is serzure/normal, the 23th column is person label.
+# thr first 21 columns are features, the 22nd column is serzure/normal, the 23rd column is person label.
 # in the task lable, 0: normal, 1: seizure
 
 # data reading
